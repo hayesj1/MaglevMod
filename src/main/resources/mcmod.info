@@ -1,0 +1,16 @@
+[
+{
+  "modid": "maglevmod",
+  "name": "Maglev Mod",
+  "description": "A mod that adds magnetic levitation trains to minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["tigerbird1"],
+  "credits": "Mojang for Minecraft, Forge Team for Forge, and the communtiy for being so awesome!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

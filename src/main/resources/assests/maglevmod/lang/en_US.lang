@@ -1,0 +1,33 @@
+tile.maglevmod:maglevmod:oretitanium.name=Titanium Ore
+tile.maglevmod:maglevmod:blocktitanium.name=Titanium Block
+tile.maglevmod:maglevmod:oreskycrystal.name=Astral Argonite Ore
+tile.maglevmod:maglevmod:blockskycrystal.name=Astral Argonite Block
+tile.maglevmod:maglevmod:maglevrail.name=Maglev Rail
+
+item.maglevmod:maglevmod:mapleLeaf.name=Test Item(maple leaf)
+item.maglevmod:maglevmod:ingottitanium.name=Titanium Ingot
+item.maglevmod:maglevmod:rodtitanium.name=Titanium Rod
+item.maglevmod:maglevmod:platetitanium.name=Titanium Plate
+item.maglevmod:maglevmod:rodmagnotheum.name=Magnotheum Rod
+item.maglevmod:maglevmod:platemagnotheum.name=Magnotheum Plate
+item.maglevmod:maglevmod:skycrystal.name=Astral Argonite Crystal
+item.maglevmod:maglevmod:magnetizer.name=Magnetizer
+
+item.maglevmod:maglevmod:swordTitanium.name=Titanium Sword
+item.maglevmod:maglevmod:pickaxeTitanium.name=Titanium Pickaxe
+item.maglevmod:maglevmod:axeTitanium.name=Titanium Axe
+item.maglevmod:maglevmod:shovelTitanium.name=Titanium Shovel
+item.maglevmod:maglevmod:hoeTitanium.name=Titanium Hoe
+
+item.maglevmod:maglevmod:swordMagno.name=Magnoblade
+item.maglevmod:maglevmod:pickaxeMagno.name=Magno Pickaxe
+item.maglevmod:maglevmod:axeMagno.name=Magno Hatchet
+item.maglevmod:maglevmod:shovelMagno.name=Magno Excavator
+item.maglevmod:maglevmod:hoeMagno.name=Magno-Tiller
+
+item.maglevmod:maglevmod:helmetTitanium.name=Titanium Helmet
+item.maglevmod:maglevmod:chestplateTitanium.name=Titanium Chestplate
+item.maglevmod:maglevmod:leggingsTitanium.name=Titanium Leggings
+item.maglevmod:maglevmod:bootsTitanium.name=Titanium Boots
+
+itemGroup.maglevmod=Maglev Mod
